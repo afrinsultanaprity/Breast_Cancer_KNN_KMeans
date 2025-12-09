@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis KNN & KMeans
+# Breast Cancer Diagnosis Prediction Using KNN & KMeans
 
 This project focuses on analyzing the Breast Cancer to classify tumors as **Benign (B)** or **Malignant (M)** using both **Unsupervised** and **Supervised** machine learning techniques.
 
