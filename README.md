@@ -51,8 +51,8 @@ This work includes the following steps:
 | Metric        | Score |
 |---------------|------------------|
 | Accuracy      | ~0.95–0.97       |
-| Precision     | High             |
-| Recall        | High             |
+| Precision     | ~0.95            |
+| Recall        | ~0.95            |
 | F1-score      | ~0.95            |
 
 
