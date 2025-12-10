@@ -1,11 +1,12 @@
 # Breast Cancer Diagnosis Prediction Using KNN & KMeans
 
-This project focuses on analyzing the Breast Cancer to classify tumors as **Benign (B)** or **Malignant (M)** using both **Unsupervised** and **Supervised** machine learning techniques.
+This project focuses on analyzing the Breast Cancer to classify tumors as **Benign (B)** or **Malignant (M)** using both **Unsupervised** and **Supervised** machine learning techniques. 
+The dataset used in this project **`Dataset - Dataset.csv`** 
 
 Two methods were applied:
 
-- **K-Means Clustering** → to explore natural grouping in the data  
-- **K-Nearest Neighbors (KNN)** → to build a predictive classification model  
+- **K-Means Clustering(Unsupervised)** → to explore natural grouping in the data  
+- **K-Nearest Neighbors (KNN)(Supervised)** → to build a predictive classification model  
 
 ---
 
@@ -64,9 +65,6 @@ This work includes the following steps:
 - **`Breast_Cancer_Analysis.ipynb`**  
   Full notebook with preprocessing, clustering, classification, and evaluation.
 
-- **`Dataset - Dataset.csv`**  
-  The dataset used in this project.
-
 - **`README.md`**  
   Documentation summarizing the project.
 
@@ -76,8 +74,8 @@ This work includes the following steps:
 
 1. Open the notebook in **Google Colab** or **Jupyter Notebook**  
 2. Upload the dataset  
-3. Run cells 
-4. View the output and scores
+3. Run cells sequentially
+
 
 
 
