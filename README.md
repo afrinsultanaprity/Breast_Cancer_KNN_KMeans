@@ -62,7 +62,7 @@ This work includes the following steps:
 
 ## Files Included
 
-- **`Breast_Cancer_Analysis.ipynb`**  
+- **`Breast_Cancer_Diagnosis.ipynb`**  
   Full notebook with preprocessing, clustering, classification, and evaluation.
 
 - **`README.md`**  
